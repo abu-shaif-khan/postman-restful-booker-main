@@ -1,12 +1,5 @@
 # Postman demo with restful-booker
 
-## Background
-
-I took a great, free online course by Amber Race [(@ambertests)](https://twitter.com/ambertests) through [Test Automation University](https://testautomationu.applitools.com/) by Applitools:
-
-[Exploring Service APIs through Test Automation](https://testautomationu.applitools.com/exploring-service-apis-through-test-automation/)
-
-In it, she introduces API testing basics, [Postman](https://www.getpostman.com/), the [Restful Booker API](https://restful-booker.herokuapp.com/) and [Newman](https://github.com/postmanlabs/newman). Her course inspired me to explore each of these and learn more about API testing.
 
 I set up this repo as a place to store my study work and document for myself what I've learned so far. If you're also new to API testing and find something in here that helps you get started, right on! My corresponding Postman Workspace is publically available at: [Restful Booker on Postman](https://www.postman.com/joannalaine/workspace/restful-booker)
 
